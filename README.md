@@ -1,6 +1,12 @@
-# conversor_moedas
+# Uma Linda Moeda (Pretty Coin)
 
-A new Flutter project.
+Novo projeto Flutter. Este projeto obtem dados da API do HGBrasil e converte valores de Reias, Dolar estadunidense e Euro.
+A new Flutter project. This project takes from HGBrasil api's values and convert US Dollar, Reais and Euro.
+
+## TODO
+
+- Refatorar Código (Code Refactor)
+- Adicionar novas moedas dinamicamente (add new dynaminc conversion options)
 
 ## Getting Started
 
